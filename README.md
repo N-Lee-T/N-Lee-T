@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @N-Lee-T
 
 - 👀 I’m interested in ...
-Data analysis, mapping, demographics, political insights
+Data analysis, mapping, demographics, political insights, gardening.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript, HTML, CSS, and data structures. I'm also enhancing my knowledge of Python.
 Python!
 
 <!---
