@@ -6,7 +6,13 @@ Other interests? Too many: hiking, travel, gardening, languages, nonfiction, urb
 
 I’m currently learning JavaScript, HTML, CSS, and data structures. I know a little bit of Python and enough NodeJS to get in a little trouble. In addition to OSU coursework, I am slowly working through Angela Yu's Web Development course on Udemy, and some modules in fullstackopen. 
 
-<!---
-N-Lee-T/N-Lee-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Summer 2022 goals: 
+ * Learn SQL well (in progress). 
+ * Learn the fundamentals of DBs (in progress). 
+ * Figure out how APIs work (in progress). 
+ * Build a simple app with Flask (in progress). 
+ * Build a simple app with Django. 
+ * Create a data visualization project with matplotlib. 
+ * Eat lots of fresh vegetables from the garden (in progress).
+ * Enjoy the sunshine, flowers, and warmth (in progress).
+
