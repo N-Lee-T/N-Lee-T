@@ -7,6 +7,7 @@ Other interests? Too many: hiking, travel, gardening, languages, nonfiction, urb
 I’m currently learning JavaScript, HTML, CSS, and data structures. I know a little bit of Python and enough NodeJS to get in a little trouble. In addition to OSU coursework, I am slowly working through Angela Yu's Web Development course on Udemy, and some modules in fullstackopen. 
 
 Summer 2022 goals: 
+ * Create basic personal website (done, but never really finished).
  * Learn SQL well (in progress). 
  * Learn the fundamentals of DBs (in progress). 
  * Figure out how APIs work (in progress). 
