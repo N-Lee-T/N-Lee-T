@@ -9,9 +9,7 @@ I’m currently learning more about cloud development and APIs.
 Languages: Python, C, SQL, and a little JS
 
 2023 goals: 
- * Improve basic personal website.
  * Improve SQL and DB fundamentals.
- * Build a simple app with Flask (in progress). 
  * Create a data visualization project with matplotlib. 
  * Hike in Utah and/or Oregon
  * Find a terrific new backend developer job!
